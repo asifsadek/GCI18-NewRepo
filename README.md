@@ -1,7 +1,9 @@
 # GCI18-NewRepo
 
-How to use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+####GOOGLE CODE IN
 
-How to contribute
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+***In 2018 WORK ON A PROJECT OF CORE***
+
+####PROJECT
+***WORKING ON PROJECT IN GITHUB***
+
